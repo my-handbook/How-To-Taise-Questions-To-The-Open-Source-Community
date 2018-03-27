@@ -211,3 +211,5 @@ GitHub 的 Markdown 语法可以很好地支持代码排版、语法高亮等，
 - [如何有效地报告 Bug](http://www.chiark.greenend.org.uk/~sgtatham/bugs-cn.html)
 - [提问的智慧](http://www.wapm.cn/smart-questions/smart-questions-zh.html)
 - [回答的智慧](http://code.google.com/p/cpyug/wiki/ZenForAsk)
+
+转载自: https://github.com/seajs/seajs/issues/545
